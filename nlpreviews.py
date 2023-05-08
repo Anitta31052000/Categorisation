@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 #Read our dataset using read_csv()
-review = pd.read_csv(r"C:\Users\hp\OneDrive\Desktop\nlp review\reviews (2).csv")
+review = pd.read_csv("reviews (2).csv")
 #review = review.rename(columns = {'text': 'review'}, inplace = False)
 review.head()
 
