@@ -1,3 +1,7 @@
 pandas
-sklearn
+streamlit
+sklearn.model_selection
+sklearn.feature_extraction.text
+sklearn.naive_bayes 
+sklearn.metrics
 pickle
